@@ -18,5 +18,5 @@
 
 4. 다음 명령어를 이용하여 git clone으로 repository를 client에 복제한다.
     ```bash
-    git clone https://kimsejun@bitbucket.org/kimsejun/coscom_linuxsystem_management.git
+    git clone https://github.com/kimsejun2000/koscom.git
     ```
